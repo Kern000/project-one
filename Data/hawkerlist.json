@@ -1,0 +1,1373 @@
+[
+  {
+    "name_of_centre": "Adam Road Food Centre",
+    "location_of_centre": "2 Adam Road Singapore 289876",
+    "type_of_centre": "HC",
+    "owner": "Government",
+    "no_of_stalls": "32",
+    "no_of_cooked_food_stalls": "32",
+    "no_of_mkt_produce_stalls": "0",
+    "coordinates": [
+      1.324142,
+      103.814156
+    ]
+  },
+  {
+    "name_of_centre": "Amoy Street Food Centre",
+    "location_of_centre": "National Development Building Annex B Telok Ayer Street Singapore 069111",
+    "type_of_centre": "HC",
+    "owner": "Government",
+    "no_of_stalls": "135",
+    "no_of_cooked_food_stalls": "134",
+    "no_of_mkt_produce_stalls": "1",
+    "coordinates": [
+      1.2793519,
+      103.8466661
+    ]
+  },
+  {
+    "name_of_centre": "Bedok Food Centre",
+    "location_of_centre": "1 Bedok Road Singapore 469572",
+    "type_of_centre": "HC",
+    "owner": "Government",
+    "no_of_stalls": "32",
+    "no_of_cooked_food_stalls": "32",
+    "no_of_mkt_produce_stalls": "0",
+    "coordinates": [
+      1.3203353,
+      103.9554705
+    ]
+  },
+  {
+    "name_of_centre": "Beo Crescent Market",
+    "location_of_centre": "38A Beo Crescent Singapore 169982",
+    "type_of_centre": "MHC",
+    "owner": "Government",
+    "no_of_stalls": "94",
+    "no_of_cooked_food_stalls": "32",
+    "no_of_mkt_produce_stalls": "62",
+    "coordinates": [
+      29.974283,
+      -90.106811
+    ]
+  },
+  {
+    "name_of_centre": "Berseh Food Centre",
+    "location_of_centre": "166 Jalan Besar Singapore 208877",
+    "type_of_centre": "HC",
+    "owner": "Government",
+    "no_of_stalls": "66",
+    "no_of_cooked_food_stalls": "66",
+    "no_of_mkt_produce_stalls": "0",
+    "coordinates": [
+      1.3074083,
+      103.85683578299134
+    ]
+  },
+  {
+    "name_of_centre": "Bukit Timah Market",
+    "location_of_centre": "51 Upper Bukit Timah Road Singapore 588215",
+    "type_of_centre": "MHC",
+    "owner": "Government",
+    "no_of_stalls": "179",
+    "no_of_cooked_food_stalls": "84",
+    "no_of_mkt_produce_stalls": "95",
+    "coordinates": [
+      1.3393921,
+      103.775951445028
+    ]
+  },
+  {
+    "name_of_centre": "Chomp Chomp Food Centre",
+    "location_of_centre": "20 Kensington Park Road Singapore 557269",
+    "type_of_centre": "HC",
+    "owner": "Government",
+    "no_of_stalls": "36",
+    "no_of_cooked_food_stalls": "36",
+    "no_of_mkt_produce_stalls": "0",
+    "coordinates": [
+      1.3642229,
+      103.8665495110119
+    ]
+  },
+  {
+    "name_of_centre": "Commonwealth Crescent Market",
+    "location_of_centre": "31 Commonwealth Crescent Singapore 149644",
+    "type_of_centre": "MHC",
+    "owner": "Government",
+    "no_of_stalls": "102",
+    "no_of_cooked_food_stalls": "39",
+    "no_of_mkt_produce_stalls": "63",
+    "coordinates": [
+      42.351874,
+      -71.124055
+    ]
+  },
+  {
+    "name_of_centre": "Dunman Food Centre",
+    "location_of_centre": "271 Onan Road Singapore 424768",
+    "type_of_centre": "HC",
+    "owner": "Government",
+    "no_of_stalls": "30",
+    "no_of_cooked_food_stalls": "30",
+    "no_of_mkt_produce_stalls": "0",
+    "coordinates": [
+      1.30941795,
+      103.90183255644081
+    ]
+  },
+  {
+    "name_of_centre": "East Coast Lagoon Food Village",
+    "location_of_centre": "1220 East Coast Parkway Singapore 468960",
+    "type_of_centre": "HC",
+    "owner": "Government",
+    "no_of_stalls": "63",
+    "no_of_cooked_food_stalls": "63",
+    "no_of_mkt_produce_stalls": "0",
+    "coordinates": [
+      1.30694945,
+      103.93494293617641
+    ]
+  },
+  {
+    "name_of_centre": "Geylang Serai Market",
+    "location_of_centre": "Geylang Serai Singapore 402001",
+    "type_of_centre": "MHC",
+    "owner": "Government",
+    "no_of_stalls": "365",
+    "no_of_cooked_food_stalls": "63",
+    "no_of_mkt_produce_stalls": "302",
+    "coordinates": [
+      1.3167465,
+      103.8982156
+    ]
+  },
+  {
+    "name_of_centre": "Golden Mile Food Centre",
+    "location_of_centre": "505 Beach Road Singapore 199583",
+    "type_of_centre": "MHC",
+    "owner": "Government",
+    "no_of_stalls": "223",
+    "no_of_cooked_food_stalls": "112",
+    "no_of_mkt_produce_stalls": "111",
+    "coordinates": [
+      1.3031546,
+      103.8638712
+    ]
+  },
+  {
+    "name_of_centre": "Holland Village Market & Food Centre",
+    "location_of_centre": "1 Lorong Mambong Singapore 277700",
+    "type_of_centre": "MHC",
+    "owner": "Government",
+    "no_of_stalls": "69",
+    "no_of_cooked_food_stalls": "21",
+    "no_of_mkt_produce_stalls": "48",
+    "coordinates": [
+      1.30819,
+      103.793025
+    ]
+  },
+  {
+    "name_of_centre": "Kallang Estate Market",
+    "location_of_centre": "17 Old Airport Road Singapore 397972",
+    "type_of_centre": "MHC",
+    "owner": "Government",
+    "no_of_stalls": "94",
+    "no_of_cooked_food_stalls": "16",
+    "no_of_mkt_produce_stalls": "78",
+    "coordinates": [
+      47.315618,
+      5.028601
+    ]
+  },
+  {
+    "name_of_centre": "Market Street Food Centre",
+    "location_of_centre": "50 Market Street Singapore 048940",
+    "type_of_centre": "HC",
+    "owner": "Government",
+    "no_of_stalls": "76",
+    "no_of_cooked_food_stalls": "76",
+    "no_of_mkt_produce_stalls": "0",
+    "coordinates": [
+      52.95489825,
+      -1.1373383581595857
+    ]
+  },
+  {
+    "name_of_centre": "Maxwell Food Centre",
+    "location_of_centre": "1 Kadayanallur Street Singapore 069184",
+    "type_of_centre": "HC",
+    "owner": "Government",
+    "no_of_stalls": "103",
+    "no_of_cooked_food_stalls": "103",
+    "no_of_mkt_produce_stalls": "0",
+    "coordinates": [
+      1.28035245,
+      103.84473966608216
+    ]
+  },
+  {
+    "name_of_centre": "Newton Food Centre",
+    "location_of_centre": "500 Clemenceau Ave North Singapore 229495",
+    "type_of_centre": "HC",
+    "owner": "Government",
+    "no_of_stalls": "83",
+    "no_of_cooked_food_stalls": "83",
+    "no_of_mkt_produce_stalls": "0",
+    "coordinates": [
+      1.3121232,
+      103.83972339469418
+    ]
+  },
+  {
+    "name_of_centre": "North Bridge Road Market & Food Centre",
+    "location_of_centre": "861 North Bridge Road Singapore 198783",
+    "type_of_centre": "MHC",
+    "owner": "Government",
+    "no_of_stalls": "119",
+    "no_of_cooked_food_stalls": "37",
+    "no_of_mkt_produce_stalls": "82"
+  },
+  {
+    "name_of_centre": "Pasir Panjang Food Centre",
+    "location_of_centre": "121 Pasir Panjang Road Singapore 118543",
+    "type_of_centre": "HC",
+    "owner": "Government",
+    "no_of_stalls": "45",
+    "no_of_cooked_food_stalls": "45",
+    "no_of_mkt_produce_stalls": "0",
+    "coordinates": [
+      1.2759293,
+      103.79133943111779
+    ]
+  },
+  {
+    "name_of_centre": "Serangoon Garden Market",
+    "location_of_centre": "49A Serangoon Garden Way Singapore 555945",
+    "type_of_centre": "MHC",
+    "owner": "Government",
+    "no_of_stalls": "82",
+    "no_of_cooked_food_stalls": "46",
+    "no_of_mkt_produce_stalls": "36",
+    "coordinates": [
+      1.3631635,
+      103.86659447363151
+    ]
+  },
+  {
+    "name_of_centre": "Sembawang Hill Food Centre",
+    "location_of_centre": "590 Upper Thomson Road Singapore 574419",
+    "type_of_centre": "HC",
+    "owner": "Government",
+    "no_of_stalls": "36",
+    "no_of_cooked_food_stalls": "36",
+    "no_of_mkt_produce_stalls": "0",
+    "coordinates": [
+      1.372513,
+      103.82846
+    ]
+  },
+  {
+    "name_of_centre": "Taman Jurong Market & Food Centre",
+    "location_of_centre": "3 Yung Sheng Road Singapore 618499",
+    "type_of_centre": "MHC",
+    "owner": "Government",
+    "no_of_stalls": "180",
+    "no_of_cooked_food_stalls": "123",
+    "no_of_mkt_produce_stalls": "57",
+    "coordinates": [
+      1.3346035,
+      103.7216013
+    ]
+  },
+  {
+    "name_of_centre": "Tanglin Halt Market",
+    "location_of_centre": "48A Tanglin Halt Road Singapore 148813",
+    "type_of_centre": "MHC",
+    "owner": "Government",
+    "no_of_stalls": "117",
+    "no_of_cooked_food_stalls": "28",
+    "no_of_mkt_produce_stalls": "89",
+    "coordinates": [
+      1.3005357,
+      103.7977552
+    ]
+  },
+  {
+    "name_of_centre": "Tiong Bahru Market",
+    "location_of_centre": "30 Seng Poh Road Singapore 168898",
+    "type_of_centre": "MHC",
+    "owner": "Government",
+    "no_of_stalls": "342",
+    "no_of_cooked_food_stalls": "83",
+    "no_of_mkt_produce_stalls": "259",
+    "coordinates": [
+      1.2847764499999998,
+      103.83254106949653
+    ]
+  },
+  {
+    "name_of_centre": "Zion Riverside Food Centre",
+    "location_of_centre": "70 Zion Road Singapore 247792",
+    "type_of_centre": "HC",
+    "owner": "Government",
+    "no_of_stalls": "32",
+    "no_of_cooked_food_stalls": "32",
+    "no_of_mkt_produce_stalls": "0",
+    "coordinates": [
+      1.2924449,
+      103.8312121
+    ]
+  },
+  {
+    "name_of_centre": "ABC Brickworks Market & Food Centre",
+    "location_of_centre": " 6 Jalan Bukit Merah Singapore 150006",
+    "type_of_centre": "MHC",
+    "owner": "HDB",
+    "no_of_stalls": "144",
+    "no_of_cooked_food_stalls": "96",
+    "no_of_mkt_produce_stalls": "48"
+  },
+  {
+    "name_of_centre": "Albert Centre Market & Food Centre",
+    "location_of_centre": " 270 Queen Street Singapore 180270",
+    "type_of_centre": "MHC",
+    "owner": "HDB",
+    "no_of_stalls": "234",
+    "no_of_cooked_food_stalls": "86",
+    "no_of_mkt_produce_stalls": "148",
+    "coordinates": [
+      1.345614,
+      103.944627
+    ]
+  },
+  {
+    "name_of_centre": "Alexandra Village Food Centre",
+    "location_of_centre": " 120 Bukit Merah Lane Singapore 150120",
+    "type_of_centre": "HC",
+    "owner": "HDB",
+    "no_of_stalls": "88",
+    "no_of_cooked_food_stalls": "88",
+    "no_of_mkt_produce_stalls": "0",
+    "coordinates": [
+      1.2862946000000002,
+      103.80449471657035
+    ]
+  },
+  {
+    "name_of_centre": "Blk 1 Jalan Kukoh",
+    "location_of_centre": " 1 Jalan Kukoh Singapore 161001",
+    "type_of_centre": "HC",
+    "owner": "HDB",
+    "no_of_stalls": "21",
+    "no_of_cooked_food_stalls": "21",
+    "no_of_mkt_produce_stalls": "0",
+    "coordinates": [
+      17.733023,
+      83.321515
+    ]
+  },
+  {
+    "name_of_centre": "Blk 105 Hougang Ave 1",
+    "location_of_centre": " 105 Hougang Ave 1 Singapore 530105",
+    "type_of_centre": "MHC",
+    "owner": "HDB",
+    "no_of_stalls": "171",
+    "no_of_cooked_food_stalls": "51",
+    "no_of_mkt_produce_stalls": "120",
+    "coordinates": [
+      1.328227,
+      103.853841
+    ]
+  },
+  {
+    "name_of_centre": "Blk 11 Telok Blangah Crescent",
+    "location_of_centre": " 11 Telok Blangah Crescent Singapore 090011",
+    "type_of_centre": "MHC",
+    "owner": "HDB",
+    "no_of_stalls": "133",
+    "no_of_cooked_food_stalls": "56",
+    "no_of_mkt_produce_stalls": "77",
+    "coordinates": [
+      1.2778572,
+      103.818662
+    ]
+  },
+  {
+    "name_of_centre": "Blk 112 Jalan Bukit Merah",
+    "location_of_centre": " 112 Jalan Bukit Merah Singapore 160112",
+    "type_of_centre": "MHC",
+    "owner": "HDB",
+    "no_of_stalls": "80",
+    "no_of_cooked_food_stalls": "22",
+    "no_of_mkt_produce_stalls": "58",
+    "coordinates": [
+      1.280005,
+      103.826013
+    ]
+  },
+  {
+    "name_of_centre": "Blk 115 Bukit Merah View",
+    "location_of_centre": " 115 Bukit Merah View Singapore 151115",
+    "type_of_centre": "MHC",
+    "owner": "HDB",
+    "no_of_stalls": "182",
+    "no_of_cooked_food_stalls": "84",
+    "no_of_mkt_produce_stalls": "98",
+    "coordinates": [
+      1.285187,
+      103.822077
+    ]
+  },
+  {
+    "name_of_centre": "Blk 117 Aljunied Ave 2",
+    "location_of_centre": " 117 Aljunied Ave 2 Singapore 380117",
+    "type_of_centre": "MHC",
+    "owner": "HDB",
+    "no_of_stalls": "161",
+    "no_of_cooked_food_stalls": "79",
+    "no_of_mkt_produce_stalls": "82",
+    "coordinates": [
+      1.320666,
+      103.886993
+    ]
+  },
+  {
+    "name_of_centre": "Blk 127 Toa Payoh Lorong 1",
+    "location_of_centre": " 127 Lorong 1 Toa Payoh Singapore 310127",
+    "type_of_centre": "MHC",
+    "owner": "HDB",
+    "no_of_stalls": "148",
+    "no_of_cooked_food_stalls": "40",
+    "no_of_mkt_produce_stalls": "108",
+    "coordinates": [
+      1.338123,
+      103.844711
+    ]
+  },
+  {
+    "name_of_centre": "Blk 137 Tampines Street 11",
+    "location_of_centre": " 137 Tampines Street 11 Singapore 521137",
+    "type_of_centre": "MHC",
+    "owner": "HDB",
+    "no_of_stalls": "144",
+    "no_of_cooked_food_stalls": "45",
+    "no_of_mkt_produce_stalls": "99",
+    "coordinates": [
+      1.389296,
+      103.905057
+    ]
+  },
+  {
+    "name_of_centre": "Blk 159 Mei Chin Road",
+    "location_of_centre": " 159 Mei Chin Road Singapore 140159",
+    "type_of_centre": "MHC",
+    "owner": "HDB",
+    "no_of_stalls": "113",
+    "no_of_cooked_food_stalls": "47",
+    "no_of_mkt_produce_stalls": "66",
+    "coordinates": [
+      1.293236,
+      103.802904
+    ]
+  },
+  {
+    "name_of_centre": "Blk 16 Bedok South Road",
+    "location_of_centre": " 16 Bedok South Road Singapore 460016",
+    "type_of_centre": "MHC",
+    "owner": "HDB",
+    "no_of_stalls": "194",
+    "no_of_cooked_food_stalls": "64",
+    "no_of_mkt_produce_stalls": "130",
+    "coordinates": [
+      1.320493,
+      103.935485
+    ]
+  },
+  {
+    "name_of_centre": "Blk 163 Bukit Merah Central",
+    "location_of_centre": " 163 Bukit Merah Central Singapore 150163",
+    "type_of_centre": "HC",
+    "owner": "HDB",
+    "no_of_stalls": "57",
+    "no_of_cooked_food_stalls": "57",
+    "no_of_mkt_produce_stalls": "0",
+    "coordinates": [
+      1.283691,
+      103.817018
+    ]
+  },
+  {
+    "name_of_centre": "Blk 17 Upper Boon Keng Road",
+    "location_of_centre": " 17 Upper Boon Keng Road Singapore 380017",
+    "type_of_centre": "MHC",
+    "owner": "HDB",
+    "no_of_stalls": "144",
+    "no_of_cooked_food_stalls": "84",
+    "no_of_mkt_produce_stalls": "60",
+    "coordinates": [
+      1.31504,
+      103.871634
+    ]
+  },
+  {
+    "name_of_centre": "Blk 20 Ghim Moh Road",
+    "location_of_centre": " 20 Ghim Moh Road Singapore 270020",
+    "type_of_centre": "MHC",
+    "owner": "HDB",
+    "no_of_stalls": "230",
+    "no_of_cooked_food_stalls": "72",
+    "no_of_mkt_produce_stalls": "158",
+    "coordinates": [
+      1.3117835,
+      103.788949
+    ]
+  },
+  {
+    "name_of_centre": "Blk 208B New Upper Changi Road",
+    "location_of_centre": " 208B New Upper Changi Road Singapore 462208",
+    "type_of_centre": "HC",
+    "owner": "HDB",
+    "no_of_stalls": "70",
+    "no_of_cooked_food_stalls": "70",
+    "no_of_mkt_produce_stalls": "0",
+    "coordinates": [
+      1.324614,
+      103.930571
+    ]
+  },
+  {
+    "name_of_centre": "Blk 210 Toa Payoh Lorong 8",
+    "location_of_centre": " 210 Lorong 8 Toa Payoh Singapore 310210",
+    "type_of_centre": "MHC",
+    "owner": "HDB",
+    "no_of_stalls": "157",
+    "no_of_cooked_food_stalls": "80",
+    "no_of_mkt_produce_stalls": "77",
+    "coordinates": [
+      1.3399774,
+      103.8538851
+    ]
+  },
+  {
+    "name_of_centre": "Blk 216 Bedok North Street 1",
+    "location_of_centre": " 216 Bedok North Street 1 Singapore 460216",
+    "type_of_centre": "MHC",
+    "owner": "HDB",
+    "no_of_stalls": "196",
+    "no_of_cooked_food_stalls": "82",
+    "no_of_mkt_produce_stalls": "114",
+    "coordinates": [
+      1.353848,
+      103.953065
+    ]
+  },
+  {
+    "name_of_centre": "Blk 22 Toa Payoh Lorong 7",
+    "location_of_centre": " 22 Lorong 7 Toa Payoh Singapore 310022",
+    "type_of_centre": "MHC",
+    "owner": "HDB",
+    "no_of_stalls": "120",
+    "no_of_cooked_food_stalls": "61",
+    "no_of_mkt_produce_stalls": "59",
+    "coordinates": [
+      1.312629,
+      103.875844
+    ]
+  },
+  {
+    "name_of_centre": "Blk 226D Ang Mo Kio Ave 1",
+    "location_of_centre": " 226D Ang Mo Kio Ave 1 Singapore 564226",
+    "type_of_centre": "MHC",
+    "owner": "HDB",
+    "no_of_stalls": "111",
+    "no_of_cooked_food_stalls": "10",
+    "no_of_mkt_produce_stalls": "101",
+    "coordinates": [
+      1.366796,
+      103.839182
+    ]
+  },
+  {
+    "name_of_centre": "Blk 226H Ang Mo Kio Street 22",
+    "location_of_centre": " 226H Ang Mo Kio Street 22 Singapore 568226",
+    "type_of_centre": "HC",
+    "owner": "HDB",
+    "no_of_stalls": "29",
+    "no_of_cooked_food_stalls": "29",
+    "no_of_mkt_produce_stalls": "0",
+    "coordinates": [
+      1.367192,
+      103.840022
+    ]
+  },
+  {
+    "name_of_centre": "Blk 254 Jurong East Street 24",
+    "location_of_centre": " 254 Jurong East Street 24 Singapore 600254",
+    "type_of_centre": "MHC",
+    "owner": "HDB",
+    "no_of_stalls": "147",
+    "no_of_cooked_food_stalls": "60",
+    "no_of_mkt_produce_stalls": "87",
+    "coordinates": [
+      1.343492,
+      103.737854
+    ]
+  },
+  {
+    "name_of_centre": "Blk 29 Bendemeer Road",
+    "location_of_centre": " 29 Bendemeer Road Singapore 330029",
+    "type_of_centre": "MHC",
+    "owner": "HDB",
+    "no_of_stalls": "193",
+    "no_of_cooked_food_stalls": "88",
+    "no_of_mkt_produce_stalls": "105",
+    "coordinates": [
+      1.319105,
+      103.863124
+    ]
+  },
+  {
+    "name_of_centre": "Blk 320 Shunfu Road",
+    "location_of_centre": " 320 Shunfu Road Singapore 570320",
+    "type_of_centre": "MHC",
+    "owner": "HDB",
+    "no_of_stalls": "82",
+    "no_of_cooked_food_stalls": "31",
+    "no_of_mkt_produce_stalls": "51",
+    "coordinates": [
+      1.352026,
+      103.836964
+    ]
+  },
+  {
+    "name_of_centre": "Blk 341 Ang Mo Kio Ave 1",
+    "location_of_centre": " 341 Ang Mo Kio Ave 1 Singapore 560341",
+    "type_of_centre": "MHC",
+    "owner": "HDB",
+    "no_of_stalls": "118",
+    "no_of_cooked_food_stalls": "32",
+    "no_of_mkt_produce_stalls": "86",
+    "coordinates": [
+      1.364105,
+      103.848254
+    ]
+  },
+  {
+    "name_of_centre": "Blk 347 Jurong East Ave 1",
+    "location_of_centre": " 347 Jurong East Ave 1 Singapore 600347",
+    "type_of_centre": "MHC",
+    "owner": "HDB",
+    "no_of_stalls": "225",
+    "no_of_cooked_food_stalls": "56",
+    "no_of_mkt_produce_stalls": "169",
+    "coordinates": [
+      1.345161,
+      103.731363
+    ]
+  },
+  {
+    "name_of_centre": "Blk 353 Clementi Ave 2",
+    "location_of_centre": " 353 Clementi Ave 2 Singapore 120353",
+    "type_of_centre": "MHC",
+    "owner": "HDB",
+    "no_of_stalls": "77",
+    "no_of_cooked_food_stalls": "18",
+    "no_of_mkt_produce_stalls": "59",
+    "coordinates": [
+      1.451336,
+      103.819102
+    ]
+  },
+  {
+    "name_of_centre": "Blk 36 Telok Blangah Rise",
+    "location_of_centre": " 36 Telok Blangah Rise Singapore 090036",
+    "type_of_centre": "MHC",
+    "owner": "HDB",
+    "no_of_stalls": "53",
+    "no_of_cooked_food_stalls": "24",
+    "no_of_mkt_produce_stalls": "29",
+    "coordinates": [
+      1.272333,
+      103.821646
+    ]
+  },
+  {
+    "name_of_centre": "Blk 37A Teban Gardens Road",
+    "location_of_centre": " 37A Teban Garden Road Singapore 601037",
+    "type_of_centre": "MHC",
+    "owner": "HDB",
+    "no_of_stalls": "80",
+    "no_of_cooked_food_stalls": "28",
+    "no_of_mkt_produce_stalls": "52",
+    "coordinates": [
+      1.320831,
+      103.742724
+    ]
+  },
+  {
+    "name_of_centre": "Blk 409 Ang Mo Kio Ave 10",
+    "location_of_centre": " 409 Ang Mo Kio Ave 10 Singapore 560409",
+    "type_of_centre": "MHC",
+    "owner": "HDB",
+    "no_of_stalls": "142",
+    "no_of_cooked_food_stalls": "40",
+    "no_of_mkt_produce_stalls": "102",
+    "coordinates": [
+      1.362465,
+      103.855465
+    ]
+  },
+  {
+    "name_of_centre": "Blk 44 Holland Drive",
+    "location_of_centre": " 44 Holland Drive Singapore 270044",
+    "type_of_centre": "MHC",
+    "owner": "HDB",
+    "no_of_stalls": "106",
+    "no_of_cooked_food_stalls": "45",
+    "no_of_mkt_produce_stalls": "61",
+    "coordinates": [
+      1.30819,
+      103.793025
+    ]
+  },
+  {
+    "name_of_centre": "Blk 448 Clementi Ave 3",
+    "location_of_centre": " 448 Clementi Ave 3 Singapore 120448",
+    "type_of_centre": "MHC",
+    "owner": "HDB",
+    "no_of_stalls": "143",
+    "no_of_cooked_food_stalls": "51",
+    "no_of_mkt_produce_stalls": "92",
+    "coordinates": [
+      1.38366,
+      103.77196
+    ]
+  },
+  {
+    "name_of_centre": "Blk 453A Ang Mo Kio Ave 10",
+    "location_of_centre": " 453A Ang Mo Kio Ave 10 Singapore 561453",
+    "type_of_centre": "MHC",
+    "owner": "HDB",
+    "no_of_stalls": "222",
+    "no_of_cooked_food_stalls": "38",
+    "no_of_mkt_produce_stalls": "184",
+    "coordinates": [
+      1.33723,
+      103.70008
+    ]
+  },
+  {
+    "name_of_centre": "Blk 49 Sims Place",
+    "location_of_centre": " 49 Sims Place Singapore 380049",
+    "type_of_centre": "MHC",
+    "owner": "HDB",
+    "no_of_stalls": "144",
+    "no_of_cooked_food_stalls": "66",
+    "no_of_mkt_produce_stalls": "78",
+    "coordinates": [
+      1.317048,
+      103.879338
+    ]
+  },
+  {
+    "name_of_centre": "Blk 4A Eunos Crescent",
+    "location_of_centre": " 4A Eunos Crescent Singapore 402004",
+    "type_of_centre": "MHC",
+    "owner": "HDB",
+    "no_of_stalls": "110",
+    "no_of_cooked_food_stalls": "42",
+    "no_of_mkt_produce_stalls": "68",
+    "coordinates": [
+      1.320317,
+      103.904078
+    ]
+  },
+  {
+    "name_of_centre": "Blk 4A Jalan Batu",
+    "location_of_centre": " 4A Jalan Batu Singapore 432004",
+    "type_of_centre": "MHC",
+    "owner": "HDB",
+    "no_of_stalls": "66",
+    "no_of_cooked_food_stalls": "36",
+    "no_of_mkt_produce_stalls": "30",
+    "coordinates": [
+      1.301584,
+      103.882497
+    ]
+  },
+  {
+    "name_of_centre": "Blk 4A Woodlands Centre Road",
+    "location_of_centre": " 4A Woodlands Centre Road Singapore 731004",
+    "type_of_centre": "HC",
+    "owner": "HDB",
+    "no_of_stalls": "78",
+    "no_of_cooked_food_stalls": "78",
+    "no_of_mkt_produce_stalls": "0",
+    "coordinates": [
+      1.440787,
+      103.770093
+    ]
+  },
+  {
+    "name_of_centre": "Blk 502 West  Coast Drive",
+    "location_of_centre": " 502 West Coast Drive Singapore 120502",
+    "type_of_centre": "MK",
+    "owner": "HDB",
+    "no_of_stalls": "40",
+    "no_of_cooked_food_stalls": "0",
+    "no_of_mkt_produce_stalls": "40",
+    "coordinates": [
+      1.312163,
+      103.759353
+    ]
+  },
+  {
+    "name_of_centre": "Blk 503 West Coast Drive",
+    "location_of_centre": " 503 West Coast Drive Singapore 120503",
+    "type_of_centre": "HC",
+    "owner": "HDB",
+    "no_of_stalls": "80",
+    "no_of_cooked_food_stalls": "80",
+    "no_of_mkt_produce_stalls": "0",
+    "coordinates": [
+      1.311584,
+      103.759907
+    ]
+  },
+  {
+    "name_of_centre": "Blk 505 Jurong West Street 52",
+    "location_of_centre": " 505 Jurong West Street 52 Singapore 640505",
+    "type_of_centre": "MHC",
+    "owner": "HDB",
+    "no_of_stalls": "190",
+    "no_of_cooked_food_stalls": "60",
+    "no_of_mkt_produce_stalls": "130",
+    "coordinates": [
+      1.349645,
+      103.718447
+    ]
+  },
+  {
+    "name_of_centre": "Blk 50A Marine Terrace",
+    "location_of_centre": " 50A Marine Terrace Singapore 441050",
+    "type_of_centre": "MHC",
+    "owner": "HDB",
+    "no_of_stalls": "111",
+    "no_of_cooked_food_stalls": "24",
+    "no_of_mkt_produce_stalls": "87",
+    "coordinates": [
+      1.33723,
+      103.70008
+    ]
+  },
+  {
+    "name_of_centre": "Blk 51 Old Airport Road",
+    "location_of_centre": " 51 Old Airport Road Singapore 390051",
+    "type_of_centre": "MHC",
+    "owner": "HDB",
+    "no_of_stalls": "222",
+    "no_of_cooked_food_stalls": "168",
+    "no_of_mkt_produce_stalls": "54",
+    "coordinates": [
+      1.3079,
+      103.885344
+    ]
+  },
+  {
+    "name_of_centre": "Blk 511 Bedok North Street 3",
+    "location_of_centre": " 511 Bedok North Street 3 Singapore 460511",
+    "type_of_centre": "MHC",
+    "owner": "HDB",
+    "no_of_stalls": "125",
+    "no_of_cooked_food_stalls": "42",
+    "no_of_mkt_produce_stalls": "83",
+    "coordinates": [
+      1.3335786,
+      103.9290331
+    ]
+  },
+  {
+    "name_of_centre": "Blk 527 Ang Mo Kio Ave 10",
+    "location_of_centre": " 527 Ang Mo Kio Ave 10 Singapore 560527",
+    "type_of_centre": "MHC",
+    "owner": "HDB",
+    "no_of_stalls": "150",
+    "no_of_cooked_food_stalls": "50",
+    "no_of_mkt_produce_stalls": "100",
+    "coordinates": [
+      1.372677,
+      103.854567
+    ]
+  },
+  {
+    "name_of_centre": "Blk 538 Bedok North Street 3",
+    "location_of_centre": " 538 Bedok North Street 3 Singapore 460538",
+    "type_of_centre": "MHC",
+    "owner": "HDB",
+    "no_of_stalls": "124",
+    "no_of_cooked_food_stalls": "40",
+    "no_of_mkt_produce_stalls": "84",
+    "coordinates": [
+      1.375842,
+      103.853155
+    ]
+  },
+  {
+    "name_of_centre": "Blk 58 New Upper Changi Road",
+    "location_of_centre": " 58 New Upper Changi Road Singapore 461058",
+    "type_of_centre": "MHC",
+    "owner": "HDB",
+    "no_of_stalls": "195",
+    "no_of_cooked_food_stalls": "48",
+    "no_of_mkt_produce_stalls": "147",
+    "coordinates": [
+      1.324577,
+      103.929583
+    ]
+  },
+  {
+    "name_of_centre": "Blk 6 Tanjong Pagar Plaza",
+    "location_of_centre": " 6 Tanjong Pagar Plaza Singapore 081006",
+    "type_of_centre": "MHC",
+    "owner": "HDB",
+    "no_of_stalls": "104",
+    "no_of_cooked_food_stalls": "52",
+    "no_of_mkt_produce_stalls": "52",
+    "coordinates": [
+      1.275574,
+      103.842828
+    ]
+  },
+  {
+    "name_of_centre": "Blk 628 Ang Mo Kio Ave 4",
+    "location_of_centre": " 628 Ang Mo Kio Ave 4 Singapore 560628",
+    "type_of_centre": "MHC",
+    "owner": "HDB",
+    "no_of_stalls": "218",
+    "no_of_cooked_food_stalls": "52",
+    "no_of_mkt_produce_stalls": "166",
+    "coordinates": [
+      1.380941,
+      103.840645
+    ]
+  },
+  {
+    "name_of_centre": "Blk 630 Bedok Reservoir Road",
+    "location_of_centre": " 630 Bedok Reservoir Road Singapore 470630",
+    "type_of_centre": "MHC",
+    "owner": "HDB",
+    "no_of_stalls": "111",
+    "no_of_cooked_food_stalls": "36",
+    "no_of_mkt_produce_stalls": "75",
+    "coordinates": [
+      1.3351026,
+      103.913963
+    ]
+  },
+  {
+    "name_of_centre": "Blk 69 Geylang Bahru",
+    "location_of_centre": " 69 Geylang Bahru Singapore 330069",
+    "type_of_centre": "MHC",
+    "owner": "HDB",
+    "no_of_stalls": "211",
+    "no_of_cooked_food_stalls": "84",
+    "no_of_mkt_produce_stalls": "127",
+    "coordinates": [
+      1.309446,
+      103.876929
+    ]
+  },
+  {
+    "name_of_centre": "Blk 7 Empress Road",
+    "location_of_centre": " 7 Empress Road Singapore 260007",
+    "type_of_centre": "MHC",
+    "owner": "HDB",
+    "no_of_stalls": "108",
+    "no_of_cooked_food_stalls": "40",
+    "no_of_mkt_produce_stalls": "68",
+    "coordinates": [
+      1.316246,
+      103.805636
+    ]
+  },
+  {
+    "name_of_centre": "Blk 724 Ang Mo Kio Ave 6",
+    "location_of_centre": " 724 Ang Mo Kio Ave 6 Singapore 560724",
+    "type_of_centre": "MHC",
+    "owner": "HDB",
+    "no_of_stalls": "123",
+    "no_of_cooked_food_stalls": "45",
+    "no_of_mkt_produce_stalls": "78",
+    "coordinates": [
+      1.372051,
+      103.846477
+    ]
+  },
+  {
+    "name_of_centre": "Blk 726 Clementi West Street 2",
+    "location_of_centre": " 726 Clementi West Street 2 Singapore 120726",
+    "type_of_centre": "MHC",
+    "owner": "HDB",
+    "no_of_stalls": "195",
+    "no_of_cooked_food_stalls": "60",
+    "no_of_mkt_produce_stalls": "135",
+    "coordinates": [
+      1.3029009,
+      103.7631939
+    ]
+  },
+  {
+    "name_of_centre": "Blk 74 Toa Payoh Lorong 4",
+    "location_of_centre": " 74 Lorong 4 Toa Payoh Singapore 310074",
+    "type_of_centre": "MHC",
+    "owner": "HDB",
+    "no_of_stalls": "90",
+    "no_of_cooked_food_stalls": "10",
+    "no_of_mkt_produce_stalls": "80",
+    "coordinates": [
+      1.334494,
+      103.851957
+    ]
+  },
+  {
+    "name_of_centre": "Blk 75 Toa Payoh Lorong 5",
+    "location_of_centre": " 75 Lorong 5 Toa Payoh Singapore 310075",
+    "type_of_centre": "HC",
+    "owner": "HDB",
+    "no_of_stalls": "36",
+    "no_of_cooked_food_stalls": "36",
+    "no_of_mkt_produce_stalls": "0",
+    "coordinates": [
+      1.336018,
+      103.852932
+    ]
+  },
+  {
+    "name_of_centre": "Blk 79 Redhill Lane",
+    "location_of_centre": " 79 Redhill Lane Singapore 150079",
+    "type_of_centre": "MK",
+    "owner": "HDB",
+    "no_of_stalls": "122",
+    "no_of_cooked_food_stalls": "0",
+    "no_of_mkt_produce_stalls": "122",
+    "coordinates": [
+      1.287783,
+      103.818319
+    ]
+  },
+  {
+    "name_of_centre": "Blk 79 Telok Blangah Drive",
+    "location_of_centre": " 79 Telok Blangah Drive Singapore 100079",
+    "type_of_centre": "HC",
+    "owner": "HDB",
+    "no_of_stalls": "40",
+    "no_of_cooked_food_stalls": "40",
+    "no_of_mkt_produce_stalls": "0",
+    "coordinates": [
+      1.326246,
+      103.885171
+    ]
+  },
+  {
+    "name_of_centre": "Blk 80 Circuit Road",
+    "location_of_centre": " 80 Circuit Road Singapore 370080",
+    "type_of_centre": "MHC",
+    "owner": "HDB",
+    "no_of_stalls": "59",
+    "no_of_cooked_food_stalls": "16",
+    "no_of_mkt_produce_stalls": "43",
+    "coordinates": [
+      1.327811,
+      103.887031
+    ]
+  },
+  {
+    "name_of_centre": "Blk 82 Telok Blangah Drive",
+    "location_of_centre": " 82 Telok Blangah Drive Singapore 100082",
+    "type_of_centre": "MK",
+    "owner": "HDB",
+    "no_of_stalls": "64",
+    "no_of_cooked_food_stalls": "0",
+    "no_of_mkt_produce_stalls": "64",
+    "coordinates": [
+      1.319548,
+      103.872289
+    ]
+  },
+  {
+    "name_of_centre": "Blk 84 Marine Parade Central",
+    "location_of_centre": " 84 Marine Parade Central Singapore 440084",
+    "type_of_centre": "MHC",
+    "owner": "HDB",
+    "no_of_stalls": "198",
+    "no_of_cooked_food_stalls": "55",
+    "no_of_mkt_produce_stalls": "143",
+    "coordinates": [
+      1.30237,
+      103.906235
+    ]
+  },
+  {
+    "name_of_centre": "Blk 85 Bedok North Street 4",
+    "location_of_centre": " 85 Bedok North Street 4 Singapore 460085",
+    "type_of_centre": "MHC",
+    "owner": "HDB",
+    "no_of_stalls": "214",
+    "no_of_cooked_food_stalls": "72",
+    "no_of_mkt_produce_stalls": "142",
+    "coordinates": [
+      1.332,
+      103.938762
+    ]
+  },
+  {
+    "name_of_centre": "Blk 85 Redhill Lane",
+    "location_of_centre": " 85 Redhill Lane Singapore 150085",
+    "type_of_centre": "HC",
+    "owner": "HDB",
+    "no_of_stalls": "96",
+    "no_of_cooked_food_stalls": "96",
+    "no_of_mkt_produce_stalls": "0",
+    "coordinates": [
+      1.287312,
+      103.818335
+    ]
+  },
+  {
+    "name_of_centre": "Blk 89 Circuit Road",
+    "location_of_centre": " 89 Circuit Road Singapore 370089",
+    "type_of_centre": "MHC",
+    "owner": "HDB",
+    "no_of_stalls": "133",
+    "no_of_cooked_food_stalls": "40",
+    "no_of_mkt_produce_stalls": "93",
+    "coordinates": [
+      1.323632,
+      103.885152
+    ]
+  },
+  {
+    "name_of_centre": "Blk 90 Whampoa Drive",
+    "location_of_centre": " 90 Whampoa Drive Singapore 320090",
+    "type_of_centre": "MHC",
+    "owner": "HDB",
+    "no_of_stalls": "92",
+    "no_of_cooked_food_stalls": "80",
+    "no_of_mkt_produce_stalls": "12",
+    "coordinates": [
+      1.3227561,
+      103.8549397
+    ]
+  },
+  {
+    "name_of_centre": "Blk 93 Toa Payoh Lorong 4",
+    "location_of_centre": " 93 Lorong 4 Toa Payoh Singapore 310093",
+    "type_of_centre": "MHC",
+    "owner": "HDB",
+    "no_of_stalls": "60",
+    "no_of_cooked_food_stalls": "28",
+    "no_of_mkt_produce_stalls": "32",
+    "coordinates": [
+      1.338452,
+      103.849557
+    ]
+  },
+  {
+    "name_of_centre": "Blks 13/14 Haig Road",
+    "location_of_centre": " 13 Haig Road Singapore 430013",
+    "type_of_centre": "MHC",
+    "owner": "HDB",
+    "no_of_stalls": "151",
+    "no_of_cooked_food_stalls": "72",
+    "no_of_mkt_produce_stalls": "79",
+    "coordinates": [
+      -32.02913,
+      115.80378
+    ]
+  },
+  {
+    "name_of_centre": "Blks 160/162 Ang Mo Kio Ave 4",
+    "location_of_centre": " 160 Ang Mo Kio Ave 4 Singapore 560160",
+    "type_of_centre": "MHC",
+    "owner": "HDB",
+    "no_of_stalls": "124",
+    "no_of_cooked_food_stalls": "40",
+    "no_of_mkt_produce_stalls": "84",
+    "coordinates": [
+      1.374283,
+      103.838977
+    ]
+  },
+  {
+    "name_of_centre": "Blks 1A/ 2A/ 3A Commonwealth Drive",
+    "location_of_centre": " 1A Commonwealth Drive Singapore 141001",
+    "type_of_centre": "HC",
+    "owner": "HDB",
+    "no_of_stalls": "40",
+    "no_of_cooked_food_stalls": "40",
+    "no_of_mkt_produce_stalls": "0",
+    "coordinates": [
+      1.2996001,
+      103.7980658
+    ]
+  },
+  {
+    "name_of_centre": "Blks 2 & 3 Changi Village Road",
+    "location_of_centre": " 2 Changi Village Road Singapore 500002",
+    "type_of_centre": "MHC",
+    "owner": "HDB",
+    "no_of_stalls": "129",
+    "no_of_cooked_food_stalls": "87",
+    "no_of_mkt_produce_stalls": "42",
+    "coordinates": [
+      1.389603,
+      103.988107
+    ]
+  },
+  {
+    "name_of_centre": "Blks 20/21 Marsiling Lane",
+    "location_of_centre": " 20 Marsiling Lane Singapore 730020",
+    "type_of_centre": "MHC",
+    "owner": "HDB",
+    "no_of_stalls": "164",
+    "no_of_cooked_food_stalls": "52",
+    "no_of_mkt_produce_stalls": "112",
+    "coordinates": [
+      42.170137,
+      -72.075581
+    ]
+  },
+  {
+    "name_of_centre": "Blks 221 A/B Boon Lay Place",
+    "location_of_centre": " 221A Boon Lay Place Singapore 641221",
+    "type_of_centre": "MHC",
+    "owner": "HDB",
+    "no_of_stalls": "166",
+    "no_of_cooked_food_stalls": "72",
+    "no_of_mkt_produce_stalls": "94"
+  },
+  {
+    "name_of_centre": "Blks 22A/B Havelock Road",
+    "location_of_centre": " 22A Havelock Road Singapore 161022",
+    "type_of_centre": "HC",
+    "owner": "HDB",
+    "no_of_stalls": "30",
+    "no_of_cooked_food_stalls": "30",
+    "no_of_mkt_produce_stalls": "0",
+    "coordinates": [
+      -37.832631,
+      145.052326
+    ]
+  },
+  {
+    "name_of_centre": "Blks 79/79A Circuit Road",
+    "location_of_centre": " 79 Circuit Road Singapore 370079",
+    "type_of_centre": "HC",
+    "owner": "HDB",
+    "no_of_stalls": "106",
+    "no_of_cooked_food_stalls": "106",
+    "no_of_mkt_produce_stalls": "0",
+    "coordinates": [
+      1.325016,
+      103.884951
+    ]
+  },
+  {
+    "name_of_centre": "Blks 91/92 Whampoa Drive",
+    "location_of_centre": " 91 Whampoa Drive Singapore 320091",
+    "type_of_centre": "MHC",
+    "owner": "HDB",
+    "no_of_stalls": "164",
+    "no_of_cooked_food_stalls": "52",
+    "no_of_mkt_produce_stalls": "112",
+    "coordinates": [
+      1.323428,
+      103.85406
+    ]
+  },
+  {
+    "name_of_centre": "Chinatown Market",
+    "location_of_centre": " 335 Smith Street Singapore 050335",
+    "type_of_centre": "MHC",
+    "owner": "HDB",
+    "no_of_stalls": "703",
+    "no_of_cooked_food_stalls": "226",
+    "no_of_mkt_produce_stalls": "477",
+    "coordinates": [
+      38.8999477,
+      -77.0196947
+    ]
+  },
+  {
+    "name_of_centre": "Chong Pang Market & Food Centre",
+    "location_of_centre": " 104 Yishun Ring Road Singapore 760104",
+    "type_of_centre": "MHC",
+    "owner": "HDB",
+    "no_of_stalls": "179",
+    "no_of_cooked_food_stalls": "56",
+    "no_of_mkt_produce_stalls": "123"
+  },
+  {
+    "name_of_centre": "Hong Lim Market & Food Centre",
+    "location_of_centre": " 531A Upper Cross Street Singapore 051531",
+    "type_of_centre": "MHC",
+    "owner": "HDB",
+    "no_of_stalls": "143",
+    "no_of_cooked_food_stalls": "103",
+    "no_of_mkt_produce_stalls": "40",
+    "coordinates": [
+      1.28530335,
+      103.845821859097
+    ]
+  },
+  {
+    "name_of_centre": "Kovan Market & Food Centre",
+    "location_of_centre": " 209 Hougang Street 21 Singapore 530209",
+    "type_of_centre": "MHC",
+    "owner": "HDB",
+    "no_of_stalls": "186",
+    "no_of_cooked_food_stalls": "66",
+    "no_of_mkt_produce_stalls": "120",
+    "coordinates": [
+      1.3589714,
+      103.88612707661551
+    ]
+  },
+  {
+    "name_of_centre": "Pek Kio Market & Food Centre",
+    "location_of_centre": " 41A Cambridge Road Singapore 211041",
+    "type_of_centre": "MHC",
+    "owner": "HDB",
+    "no_of_stalls": "124",
+    "no_of_cooked_food_stalls": "50",
+    "no_of_mkt_produce_stalls": "74"
+  },
+  {
+    "name_of_centre": "People's Park Food Centre",
+    "location_of_centre": " 32 New Market Road Singapore 050032",
+    "type_of_centre": "HC",
+    "owner": "HDB",
+    "no_of_stalls": "87",
+    "no_of_cooked_food_stalls": "87",
+    "no_of_mkt_produce_stalls": "0",
+    "coordinates": [
+      1.284959,
+      103.8425704
+    ]
+  },
+  {
+    "name_of_centre": "Tekka Market",
+    "location_of_centre": " 665 Buffalo Road Singapore 210665",
+    "type_of_centre": "MHC",
+    "owner": "HDB",
+    "no_of_stalls": "403",
+    "no_of_cooked_food_stalls": "119",
+    "no_of_mkt_produce_stalls": "284",
+    "coordinates": [
+      1.307604,
+      103.84956
+    ]
+  }
+]
