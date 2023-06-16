@@ -1,31 +1,35 @@
 This is project "01" conducted at 1 month 1 week of Trent Global's Diploma in Web Application Development BootCamp.
 
-This project uses browser-based Javascript without backend databases or layers for the separation of concerns. Project incorporates dynamic javascript (non-typescript) with html, CSS, leaflet map, dependencies, and other API capabilites.
+This project uses browser-based Javascript without backend databases or layers for the separation of concerns. Project incorporates javascript (non-typescript) with html, CSS, leaflet map, dependencies, and other API capabilites.
 
 ==== Vision of Webpage ====
-This project titled 'The Food Critic' is a map-based webpage that uncovers food critics' recommendations on the map for easy access, easily geolocated to the user's location or an inputted address. Webpage incorporates random selection to address the most pertinent question faced by Singaporeans on a bi- and tri-daily basis: "What should we eat for breakfast/lunch/dinner?"
+
+This project titled 'The Food Critic' is a map-based webpage that uncovers food critics' recommendations on the map for easy access, easily geolocated to a user's location or an inputted address. Webpage further incorporates random selection to address the most pertinent question faced by Singaporeans on a bi- and tri-daily basis: "What should we eat for breakfast, lunch, or dinner?"
 
 This version of the webpage encompasses the following capabilities:
 
-1. Basic Mobile Responsiveness that caters to different devices, which include the smallest phone size.
-2. Partitioned bitesized datasets across different functions.
-3. Boundaries set to Singapore for fast loading.
-4. Requesting search capabilities to FourSquare API endpoints to search map by food and place.
-5. Backup search capabilities via leaflet GeoSearch that is limited to addresses and places.
-6. Scraping of websites in a simple algorithmic and non-intrusive manner (HTML based) and later converting scraped html into JSON format. CSV data was also retrieved and converted to JSON and localized to foolproof against API changes. As a result, this project is not needlessly dependent on external APIs. Modules like cheerio, Fs, and csvtoJson were utilized.
-7. Geolocate functions were incorporated along with other DOM functions to ease UI/UX navigation. One click reset is also incorporated.
-8. Map clustering and other functions are boundary and zoom level based to prevent needless data processing.
-9. landing page buys time for map loading to prevent map patches during loading.
+1. Basic Mobile Responsiveness that caters to different devices, including the smallest phone size.
+2. Partitioned datasets across different functions to ease data loading and processing.
+3. Boundaries set to Singapore and limited zoom levels for streamlined loading.
+4. Search capabilities from FourSquare API endpoints for both food and places.
+5. Backup search capabilities via leaflet GeoSearch for addresses and places.
+6. Scraping of websites was performed in a simple, algorithmic, and non-intrusive manner (loops, targeted, delay, and HTML parsing). Scraped html was later processed into JSON format. CSV data from government sources were also retrieved and converted into JSON. In addition, data was localized to reduce dependency on external APIs' stability.
+7. Geolocate functions were incorporated alongside other navigational DOM to ease UI/UX. One click reset was also incorporated. Similarly, map clustering was incorporated. Users can navigate seamlessly from one function to another without the need for manual zoom in and out or map scrolling.
+8. Lastly, a landing page was incorporated to buy time for map loading to prevent initial map patches.
 
 Shortcomings:
-1. Any form of data manipulation or data usage does not have atomicity.
-2. Algorithms while being mindful of time and space complexity, does not incorporate advance techniques given tight constraings of the bootcamp. One can expect algorithms to have the time and space complexity of O[n] or O[n^2].
-3. Async functions use await to achieve synchonous operations for dataset and may lead to load times when using the webpage's capabilities.
-4. Lack of refactoring of functions for reusablity. This was done because of the developer's preference for simpler iterative code rather than a web of code that requires referring between pages to understand.
-5. At this juncture, there may be a lack of data and site security (To be enhanced in later projects)
+1. Any data storage or usage in this project does not have atomicity. This was most evident during scrapping where dependence on server response led to incomplete datasets.
+2. Algorithms, while mindful of time and space complexity, do not incorporate advance techniques due to various constrains. One can expect algorithms to have the general time and space complexity of O[n].
+3. Numerous async functions utilize await to achieve synchonous data operations. This may lead to loading times for the said operations.
+4. There is a lack of refactoring of functions for code reusablity. While acceptable for a small project as such, proper documentation and packaging of methods is needed for larger ones.
+5. And lastly, there may be a lack of data and site security (which will be enhanced only in later projects)
 
 ---
 
-All in all, this was a short learning project that crystallized various DOM manipulations, map functions, and data manipulations. Do enjoy its functionality to decide what to eat for breakfast, lunch, and dinner. Should this webpage go live, more datasets can be incorporated with choices, scalability, and streamlined handling in mind.
+All in all, this was a short learning project that crystallized various DOM, map functions, and data manipulations. Do enjoy this prototype version of 'The Food Critic' to aid in your decision on what to eat for breakfast, lunch, and dinner. Should this webpage go live, more datasets can be incorporated for aggregation, choices, scalability, and streamlined handling.
 
-A big thank you to Leaflet and other developers who selflessly provide the massive libraries for use. A special thanks to Yong Shen from DXC and Alex from Trent Global for the support and tricks that helped create this webpage.
+In closing, I would like to extend a big thank you to Leaflet and other developers for their selfless provision of public libraries for use. A special thanks to Yong Sheng from DXC and Alex from Trent Global for the support and some of the best practices that helped create this webpage.
+
+
+
+
