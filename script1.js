@@ -158,9 +158,9 @@ L.control.scale().addTo(map1);
 let options1 = {
     flyTo: true,
     initialZoomLevel: 16,
-    drawCircle: true,
+    drawCircle: false,
     returnToPrevBounds: true,
-    circleStyle: {fillColor: 'green'}
+
 };
 
 let locateControl = L.control.locate(options1)
@@ -174,12 +174,12 @@ myLocation.addEventListener("click", function() {
 
     locateClickCount ++
 
-    if (locateClickCount == 1){
+    if (locateClickCount % 2 !== 0){
 
         locateControl.start()
         myLocation.innerText = "Reset View"
     }
-    else if (locateClickCount == 2){
+    else if (locateClickCount % 2 == 0){
 
         locateControl.stop()
         map1.setView(setCoordinates, 11.5)
@@ -196,13 +196,13 @@ geoLocation.addEventListener("click", function() {
 
     locateClickCount ++
 
-    if (locateClickCount == 1){
+    if (locateClickCount % 2 !== 0){
 
         myLocation.innerText = "Reset View"
            
     }
 
-    else if (locateClickCount == 2){
+    else if (locateClickCount % 2 == 0){
         map1.setView(setCoordinates, 11.5)
         locateClickCount = 0
         myLocation.innerText = "My Location"

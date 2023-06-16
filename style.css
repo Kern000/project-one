@@ -329,6 +329,14 @@ body {
     color: gray;
 }
 
+#toast1{
+    z-index: 5000;
+}
+
+.toast-header {
+    border-bottom: none !important;
+  }
+
 @media (min-width: 600px){
 
     #map1 {
