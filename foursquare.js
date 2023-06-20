@@ -65,6 +65,7 @@ function foursquareSearch(){
 
         let searchResultContainer = document.querySelector("#search-results");
         searchResultContainer.innerHTML = ''
+        searchResultContainer.scrollTop = 0;
 
         for (let venue of response.results){
         
@@ -105,6 +106,7 @@ function foursquareSearch(){
             searchResultContainer.style.display = "none";
             closeWindow.style.display = "none";
             searchResultLayer.clearLayers()                                         //clear previous results
+            searchResultContainer.scrollTop = 0;
         })
     }
 
@@ -160,6 +162,7 @@ backupSearch.addEventListener('click', async function(){
         searchResultContainer.innerHTML = ''
         searchResultContainer.style.display = "none";
         closeWindow.style.display = "none";
+        searchResultContainer.scrollTop = 0;
         
         const results = await provider.search({query: query1});
 
