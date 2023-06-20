@@ -136,7 +136,7 @@ backupSearch.addEventListener('click', async function(){
         backupCounter++
     }
     else if (backupCounter == 1){
-        backupSearch.innerText = "Search by place"
+        backupSearch.innerText = "Search by place (Click Here)"
         searchBar.placeholder = "Search by address"
         searchBar.value = ""
 
