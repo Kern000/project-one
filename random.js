@@ -6,6 +6,11 @@ let group5 = L.layerGroup()
 
 random.addEventListener('click', async function(){
 
+    if (map1.getZoom() < 12){
+        map1.setView(setCoordinates, 12)    
+        
+    }
+    
     if(group5){    
         group5.clearLayers()
         group5.removeFrom(map1)        
@@ -15,7 +20,7 @@ random.addEventListener('click', async function(){
         if (layer instanceof L.MarkerCluster){
         layer.spiderfy();
     }})
-
+    
     let boundary = map1.getBounds();
 
     let visibleMarkers = [];
@@ -28,11 +33,16 @@ random.addEventListener('click', async function(){
    
     const randomIndex = Math.floor(Math.random() * visibleMarkers.length);
     let selectedMarker = visibleMarkers[randomIndex];
-    
+
     if (selectedMarker) {
-        
-        map1.setView(selectedMarker.getLatLng(), 17)
+
+        await map1.eachLayer(function (layer) {
+            if (layer instanceof L.MarkerCluster){
+            layer.spiderfy();
+        }})
     
+        map1.setView(selectedMarker.getLatLng(), 17)
+
         let circle = L.circle(selectedMarker.getLatLng(), {
                 radius: 100,
                 color: 'green',

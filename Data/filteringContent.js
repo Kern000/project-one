@@ -8,12 +8,12 @@ const $ = cheerio.load(openHtml)
 
 let container = []
 
-$('h6').each((index, element) => {
+$('h6').each((index, element) => {                                                  //$('h6') is a jQuery selector that selects all <h6> elements on the page. 
 
     const title = $(element).text().trim();
 
-    const uniqueTitle = container.every(item => item['title'] !== title);
-
+    const uniqueTitle = container.every(item => item['title'] !== title);           // .every by nature checks condition and return boolean
+                                                                                    // If the callback function returns false for any element, the iteration stops, and the .every() method immediately returns false.
     // check if it is unique entry in the container that we push into
 
     if (uniqueTitle) {

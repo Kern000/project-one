@@ -1,35 +1,50 @@
-This is project "01" conducted at 1 month 1 week of Trent Global's Diploma in Web Application Development BootCamp.
+This is project "01" conducted at 1 month 2 weeks' of Trent Global's Diploma in Web Application Development BootCamp.
 
 This project uses browser-based Javascript without backend databases or layers for the separation of concerns. Project incorporates javascript (non-typescript) with html, CSS, leaflet map, dependencies, and other API capabilites.
 
 ==== Vision of Webpage ====
 
-This project titled 'The Food Critic' is a map-based webpage that uncovers food critics' recommendations on the map for easy access, easily geolocated to a user's location or an inputted address. Webpage further incorporates random selection to address the most pertinent question faced by Singaporeans on a bi- and tri-daily basis: "What should we eat for breakfast, lunch, or dinner?"
+This project titled 'The Food Critic' is a map-based webpage that uncovers food critics' recommendations on a leaflet map for easy access, easily geolocated to a user's location or an inputted address. Webpage further incorporates random selection to address the most pertinent question faced by Singaporeans on a bi- and tri-daily basis: "What should we eat for breakfast, lunch, or dinner?"
 
 This version of the webpage encompasses the following capabilities:
 
 1. Basic Mobile Responsiveness that caters to different devices, including the smallest phone size.
+
 2. Partitioned datasets across different functions to ease data loading and processing.
+
 3. Boundaries set to Singapore and limited zoom levels for streamlined loading.
+
 4. Search capabilities from FourSquare API endpoints for both food and places.
+
 5. Backup search capabilities via leaflet GeoSearch for addresses and places.
-6. Scraping of websites was performed in a simple, algorithmic, and non-intrusive manner (loops, targeted, delay, and HTML parsing). Scraped html was later processed into JSON format. CSV data from government sources were also retrieved and converted into JSON. In addition, data was localized to reduce dependency on external APIs' stability.
-7. Geolocate functions were incorporated alongside other navigational DOM to ease UI/UX. One click reset was also incorporated. Similarly, map clustering was incorporated. Users can navigate seamlessly from one function to another without the need for manual zoom in and out or map scrolling.
-8. Lastly, a landing page was incorporated to buy time for map loading to prevent initial map patches.
+
+6. Scraping of websites was performed in a simple, algorithmic, and non-intrusive manner (loops, targeted, delayed, and HTML parsing). Scraped html was later processed into JSON format through Regex and geocoding. CSV data from government sources was also retrieved, geocoded, and converted into JSON. In addition, data was localized to reduce dependency on external APIs' stability. This would prevent data breakage if the data changed over time. With this in mind, it would be more manageable to update the dataset on a periodic basis given the stable nature of the content.
+
+7. Geolocate functions were incorporated alongside map clustering and other navigational DOM to ease UI/UX. One click reset was also incorporated. Users can navigate seamlessly from one function to another without the need for manual zoom in and out or scrolling. Buttons also clear away search results intuitively similar to Google Maps.
+
+8. A landing page was incorporated to buy time for map loading to prevent initial map patches.
+
+9. Lastly, a clean and elegant white-maroon theme was chosen for aesthetics purpose.
 
 Shortcomings:
-1. Any data storage or usage in this project does not have atomicity. This was most evident during scrapping where dependence on server response led to incomplete datasets.
-2. Algorithms, while mindful of time and space complexity, do not incorporate advance techniques due to various constrains. One can expect algorithms to have the general time and space complexity of O[n].
-3. Numerous async functions utilize await to achieve synchonous data operations. This may lead to loading times for the said operations.
-4. There is a lack of refactoring of functions for code reusablity. While acceptable for a small project as such, proper documentation and packaging of methods is needed for larger ones.
-5. And lastly, there may be a lack of data and site security (which will be enhanced only in later projects)
+
+1. Testing revealed that leaflet Geolocate can be inaccurate. Furthermore, the 'random' button which spiderfy and targets markers on the Marker Cluster Layer can be inaccurate on overarching zoom views. This is no longer an issue once the user is zoomed in or using the geolocate button. (*This shortcoming is now rectified through an if function on getZoom() to zoom in before random*. An additional spiderfy was also incorporated in the runtime process to reduce inconsistencies in spiderfication in response to marker cluster quirks)
+
+2. Any data usage or processing in this project does not have atomicity. This was most evident during scrapping where dependence on server response led to incomplete datasets. To mitigate data risks, data was processed prior to implementation, rather than processed at the same runtime when accessing data from external sources.
+
+3. Algorithms, while mindful of time and space complexity, do not incorporate advance techniques due to various constrains. One can expect algorithms to have the general time and space complexity of O[n]. Given that this page is not data read or write heavy and the data sets are small, techniques of indexing, enumerating, linked list, or binary tree was not incorporated.
+
+4. Numerous async functions utilize await to achieve synchonous data operations. This may lead to loading times for affected operations. Although asynchronous programming was implemented, there is actually a lack of asynchronous operations beyond data retrieval, as well as a lack of concurrent processing.
+
+5. There is a lack of refactoring of functions for code reusablity. While acceptable for a small project as such, proper documentation and packaging of methods is needed for larger ones. Current project uses custom code to cater to the unique data arrangement from the scraped website. However, OOP class methods may be defined in 'builder' design patterns to quicken future operations.
+
+6. Lastly, there is a lack of data and site security (which will be enhanced only in later projects)
 
 ---
 
 All in all, this was a short learning project that crystallized various DOM, map functions, and data manipulations. Do enjoy this prototype version of 'The Food Critic' to aid in your decision on what to eat for breakfast, lunch, and dinner. Should this webpage go live, more datasets can be incorporated for aggregation, choices, scalability, and streamlined handling.
 
 In closing, I would like to extend a big thank you to Leaflet and other developers for their selfless provision of public libraries for use. A special thanks to Yong Sheng from DXC and Alex from Trent Global for the support and some of the best practices that helped create this webpage.
-
 
 
 
