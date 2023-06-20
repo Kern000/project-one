@@ -6,9 +6,8 @@ let group5 = L.layerGroup()
 
 random.addEventListener('click', async function(){
 
-    if (map1.getZoom() < 12){
-        map1.setView(setCoordinates, 12)    
-        
+    if (map1.getZoom() < 13){
+        map1.setView(setCoordinates, 13)        
     }
     
     if(group5){    
@@ -52,6 +51,40 @@ random.addEventListener('click', async function(){
         group5.addTo(map1)
 
         selectedMarker.openPopup()       
+
+        let visibleMarkers2 = [];
+
+        map1.eachLayer(function (layer) {
+            if (layer instanceof L.Marker && boundary.contains(layer.getLatLng())) {    //in leaflet, each marker is add layer, can get their LatLng and push into array to get random later
+              visibleMarkers2.push(layer);
+            }
+          });
+         
+        const randomIndex2 = Math.floor(Math.random() * visibleMarkers2.length);
+        let selectedMarker2 = visibleMarkers2[randomIndex2];
+
+        if (selectedMarker2) {
+
+            if(group5){    
+                group5.clearLayers()
+                group5.removeFrom(map1)        
+            }
+
+            await map1.eachLayer(function (layer) {
+                if (layer instanceof L.MarkerCluster){
+                layer.spiderfy();
+            }})
+    
+            let circle2 = L.circle(selectedMarker2.getLatLng(), {
+                radius: 100,
+                color: 'green',
+                fillOpacity: 0.1,
+            }).addTo(group5);
+
+            group5.addTo(map1)
+
+            selectedMarker2.openPopup()
+        }
     }
 
     let myLocation = document.querySelector("#geolocate-btn")
