@@ -1,10 +1,11 @@
 body {
-
     position: relative;
     border: 0px;
     margin: 0px;
     padding: 0px;
-    
+    height: 100%;
+    display: flex;
+    flex-direction: column;
 }
 
 @keyframes hideAfterDelay {
@@ -422,6 +423,7 @@ body {
 
     #btm-bar{
         font-size: 13px;
+        height: 6vh;
     }
 
     #hawker-btn{
@@ -461,11 +463,7 @@ body {
     }
 
     #btm-bar{
-        font-size: 10px;
-        background-color: white;
-        padding-bottom: 0px;
-        margin-bottom: 0px;
-        line-height: 1;
+        display: none;
     }
 
     #hawker-btn{
@@ -479,18 +477,20 @@ body {
 }
 
 @media (max-width: 350px){
-    
-    #map-container{
 
-    height: 75vh;
+    .top-banner-word{
+        padding-top: 5px;
+    }
+
+    #map-container{
+    height: 85vh;
     }
 
     #map1{
-    height: 75vh;
+    height: 85vh;
     
     }
-
-    
+   
     #btm-bar{
         display: none;
     }
@@ -499,8 +499,6 @@ body {
         font-size: 12px;
         margin-left: 3px;
     }
-
-
 
     #hawker-btn{
         top: 100px;
@@ -514,8 +512,6 @@ body {
     #backup-btn{
         top: 40px;
     }
-
-
 }
 
 @media (min-width: 1200px){
