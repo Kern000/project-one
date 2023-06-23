@@ -32,7 +32,7 @@ Shortcomings:
 
 2. Any data usage or processing in this project does not have atomicity. This was most evident during scrapping where dependence on server response led to incomplete datasets. To mitigate data risks, data was processed prior to implementation, rather than processed at the same runtime when accessing data from external sources.
 
-3. Algorithms, while mindful of time and space complexity, do not incorporate advance techniques due to various constrains. One can expect algorithms to have the general time and space complexity of O[n]. Given that this page is not data read or write heavy and the data sets are small, techniques of indexing, enumerating, linked list, or binary tree was not incorporated.
+3. Algorithms, while mindful of time and space complexity, do not incorporate advance techniques due to various constrains. One can expect algorithms to have the general time and space complexity of O[n]. Given that this page is not data read or write heavy and the data sets are small, techniques of indexing or binary tree were not incorporated.
 
 4. Numerous async functions utilize await to achieve synchonous data operations. This may lead to loading times for affected operations. Although asynchronous programming was implemented, there is actually a lack of asynchronous operations beyond data retrieval, as well as a lack of concurrent processing.
 

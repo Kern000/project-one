@@ -285,7 +285,7 @@ body {
 
 #map1 {
 
-    height: 90vh;
+    height: 89vh;
     width: auto;
     border: 0px;
     margin: 0px;
@@ -479,6 +479,18 @@ body {
 }
 
 @media (max-width: 350px){
+    
+    #map-container{
+
+    height: 75vh;
+    }
+
+    #map1{
+    height: 75vh;
+    
+    }
+
+    
     #btm-bar{
         display: none;
     }
@@ -487,6 +499,8 @@ body {
         font-size: 12px;
         margin-left: 3px;
     }
+
+
 
     #hawker-btn{
         top: 100px;
@@ -500,6 +514,8 @@ body {
     #backup-btn{
         top: 40px;
     }
+
+
 }
 
 @media (min-width: 1200px){
