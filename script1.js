@@ -12,7 +12,7 @@ if (loginCoordinates.length !== 0){
 
 // initialize the map and layers
 
-let map1 = L.map('map1').setView(setCoordinates, 11);
+let map1 = L.map('map1').setView(setCoordinates, 10);
 
 L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
     maxZoom: 17,
@@ -24,7 +24,7 @@ let group2 = L.layerGroup();
 
 // map settings
 
-map1.setMinZoom(11);
+map1.setMinZoom(10);
 
 let maxBounds = map1.getBounds();
 map1.setMaxBounds(maxBounds)
