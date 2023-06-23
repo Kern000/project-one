@@ -107,9 +107,6 @@ body {
     position: relative;
 }
 
-
-
-
 #search-results {
 
     position: absolute;
@@ -167,6 +164,11 @@ body {
 
 .legend{
     margin-left: 10px;
+    padding-bottom: 0px;
+}
+
+.btm-banner-word{
+    padding-bottom: 1px;
 }
 
 #geolocate-btn {
@@ -460,6 +462,7 @@ body {
         height: 3vh;
         font-size: 8px;
         margin-left: 3px;
+        
     }
 
     #btm-bar{
@@ -479,7 +482,7 @@ body {
 @media (max-width: 350px){
 
     .top-banner-word{
-        padding-top: 5px;
+        padding-top: 3px;
     }
 
     #map-container{
